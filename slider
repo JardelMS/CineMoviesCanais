@@ -1,0 +1,46 @@
+{
+  "cinemovies": {
+    "banner": [
+      {
+        "type": "movies",
+        "title": "Um Sonho de Liberdade",
+        "url": "http://authentic-video.cloud/ask02.php?b\u003dferal/dub/278.mp4",
+        "category": "Crime, Drama",
+        "backdrop": "https://image.tmdb.org/t/p/w500/tXHpvlr5F7gV5DwgS7M5HBrUi2C.jpg",
+        "imdbRating": "9.3"
+      },
+      {
+        "type": "movies",
+        "title": "Mainstream",
+        "url": "http://authentic-video.cloud/ask07.php?b\\u003dseguro/dub/557950.mp4",
+        "category": "Comédia, Drama",
+        "backdrop": "https://image.tmdb.org/t/p/w500/lpDI75ThFlgMvgCxetaIU0cJeLy.jpg",
+        "imdbRating": "5.0"
+      },
+      {
+        "type": "movies",
+        "title": "O Poderoso Chefão",
+        "url": "http://authentic-video.cloud/ask05.php?b\u003dutf8/saidai/dub/238.mp4",
+        "category": "Crime, Drama",
+        "backdrop": "https://image.tmdb.org/t/p/w500/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+        "imdbRating": "9.2"
+      },
+      {
+        "type": "movies",
+        "title": "Batman: O Cavaleiro das Trevas",
+        "url": "http://authentic-video.cloud/ask01.php?b\u003ddk/155.mp4",
+        "category": "Ação, Crime, Drama, Thriller",
+        "backdrop": "https://image.tmdb.org/t/p/w500/lHhZrxYk8pi25UYKgHVJSbGCwI9.jpg",
+        "imdbRating": "9.0"
+      },
+      {
+        "type": "movies",
+        "title": "A Era do Gelo: As Aventuras de Buck",
+        "url": "http://authentic-video.cloud/ask05.php?b\u003dutf8/saidai/dub/774825.mp4",
+        "category": "Animação, Comédia, Aventura, Família",
+        "backdrop": "https://image.tmdb.org/t/p/w500/WmxKrt1vjKw0xz3cMuuprKgUOq.jpg",
+        "imdbRating": "7.4"
+      }
+    ]
+  }
+}
