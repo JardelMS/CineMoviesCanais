@@ -1,1 +1,12 @@
-
+{
+"status": "true", 
+"title": "Atualização disponível!", 
+"sinopse": "
+- UI/DESIGNER PLAYER
+- UI/DESIGNER SLIDER FILMES
+- UI/DESIGNER TELA DETALHES FILME/SERIE",
+"button":"Baixar", 
+"link": "http://cinemovies.online",
+"trailer":"false",
+"trailer_link":"http://technoticias.online/vision/"
+}
