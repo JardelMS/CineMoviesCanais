@@ -1,12 +1,25 @@
 {
-"status": "falso", 
+"status": "true", 
+"version": "1.1", 
 "title": "Atualização disponível!", 
 "sinopse": "
 - UI/DESIGNER PLAYER
 - UI/DESIGNER SLIDER FILMES
 - UI/DESIGNER TELA DETALHES FILME/SERIE",
 "button":"Baixar", 
-"link": "http://cinemovies.online",
+"link": "https://www.mediafire.com/file/z67ha91cwidy7tr/CineMovies_1.1.apk",
+"sobreapp": "Este aplicativo é um indexador de canais de TV, séries e filmes e não hospeda nenhum tipo de conteúdo dentro do próprio aplicativo. Todo o conteúdo exibido é obtido por meio de indexação automática de fontes disponíveis na Internet.
+
+Nosso objetivo é fornecer uma maneira conveniente de acessar canais de TV, séries e filmes de várias fontes online em um único lugar. O aplicativo coleta e organiza os links disponíveis na Internet para facilitar o acesso aos conteúdos de entretenimento.
+
+Gostaríamos de ressaltar que não temos controle sobre o conteúdo exibido, pois ele é obtido dinamicamente de várias fontes. Portanto, não somos responsáveis pelo conteúdo exibido em termos de sua legalidade, precisão, qualidade ou adequação.
+
+É importante observar que não promovemos, incentivamos ou apoiamos a violação de direitos autorais ou qualquer atividade ilegal. Recomendamos que você cumpra as leis de direitos autorais ao acessar e assistir ao conteúdo disponível por meio do aplicativo.
+
+Se você tiver alguma dúvida ou preocupação sobre o conteúdo exibido, entre em contato conosco para que possamos investigar e tomar as medidas apropriadas.
+
+Agradecemos por utilizar nosso aplicativo e esperamos que você desfrute de uma experiência de entretenimento agradável e diversificada!
+", 
 "trailer":"false",
 "trailer_link":"http://technoticias.online/vision/"
 }
