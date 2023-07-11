@@ -1,10 +1,10 @@
-{
-{
-"title":"Telegram",
-"url":"https://google.com"
-},
-{
-"title":"whatsapp",
-"url":"https://google.com"
-}
-}
+[
+    {
+        "title": "Telegram",
+        "url": "https://google.com"
+    },
+    {
+        "title": "whatsapp",
+        "url": "https://google.com"
+    }
+]
