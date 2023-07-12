@@ -1,4 +1,4 @@
-{
+[
   {
     "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-agrandeconquista1.jpg",
     "title": "A Grande Conquista: Câmera 1",
@@ -589,4 +589,4 @@
     "title": "Woohoo",
     "url": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assistir-woohoo-online-24-horas-ao-vivo_c6593cc33.html"
   }
-}
+]
