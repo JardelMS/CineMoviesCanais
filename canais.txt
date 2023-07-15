@@ -157,7 +157,7 @@
   {
     "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discovery.jpg",
     "title": "Discovery Channel",
-    "url": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assistir-discovery-channel-online-24-horas-ao-vivo_972be3466.html"
+    "url": "https://sinalpublico.com/player3/ch.php?canal=discovery"
   },
   {
     "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryhomeihealth.jpg",
