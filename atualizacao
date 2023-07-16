@@ -1,13 +1,11 @@
 {
 "status": "true", 
-"version": "1.1", 
+"version": "1.2", 
 "title": "Atualização disponível!", 
 "sinopse": "
-- UI/DESIGNER PLAYER
-- UI/DESIGNER SLIDER FILMES
-- UI/DESIGNER TELA DETALHES FILME/SERIE",
+Nova atualização com melhorias clique no botão baixar.",
 "button":"Baixar", 
-"link": "https://www.mediafire.com/file/z67ha91cwidy7tr/CineMovies_1.1.apk",
+"link": "https://www.mediafire.com/file/0sfrbr0zzjbbyoh/CineMovies_1.2.apk/",
 "sobreapp": "Este aplicativo é um indexador de canais de TV, séries e filmes e não hospeda nenhum tipo de conteúdo dentro do próprio aplicativo. Todo o conteúdo exibido é obtido por meio de indexação automática de fontes disponíveis na Internet.
 
 Nosso objetivo é fornecer uma maneira conveniente de acessar canais de TV, séries e filmes de várias fontes online em um único lugar. O aplicativo coleta e organiza os links disponíveis na Internet para facilitar o acesso aos conteúdos de entretenimento.
