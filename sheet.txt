@@ -1,6 +1,6 @@
 [
     {
-        "title": "Whatsapp",
-        "url": "https://chat.whatsapp.com/L490aLDc4Tk7IvPVlq4FmI"
+        "title": "Telegram",
+        "url": "https://t.me/cinemoviesi"
     }
 ]
